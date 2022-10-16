@@ -35,4 +35,4 @@ if (st.button('Predict sentiment ')):
     elif(v==1):
         st.write("Neutral Tweet :neutral_face:")
     else:
-        st.write("Psitive Tweet :thumbsup:")
+        st.write("Positive Tweet :thumbsup:")
